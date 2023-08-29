@@ -355,7 +355,6 @@ DEPENDENCIES
   sassc-rails
   selenium-webdriver
   solargraph
-  sprockets-rails
   sqlite3 (~> 1.4)
   steep
   stimulus-rails
